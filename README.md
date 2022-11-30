@@ -1,1 +1,1 @@
-# Natural Language Querying
+# Natural Language Querying for SQL
