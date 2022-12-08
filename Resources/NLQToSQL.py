@@ -44,3 +44,11 @@ class NLQToSQL:
 
         # Decode the SQL query and return it
         return self.decode_output_seq(query)
+
+
+
+
+########################################################
+# same model as pickle file
+import pickle
+
